@@ -1,0 +1,14 @@
+C:\Users\aripa\source\repos\homework 3 to do list\homework 3 to do list\bin\Debug\net8.0\homework 3 to do list.exe
+C:\Users\aripa\source\repos\homework 3 to do list\homework 3 to do list\bin\Debug\net8.0\homework 3 to do list.deps.json
+C:\Users\aripa\source\repos\homework 3 to do list\homework 3 to do list\bin\Debug\net8.0\homework 3 to do list.runtimeconfig.json
+C:\Users\aripa\source\repos\homework 3 to do list\homework 3 to do list\bin\Debug\net8.0\homework 3 to do list.dll
+C:\Users\aripa\source\repos\homework 3 to do list\homework 3 to do list\bin\Debug\net8.0\homework 3 to do list.pdb
+C:\Users\aripa\source\repos\homework 3 to do list\homework 3 to do list\obj\Debug\net8.0\homework 3 to do list.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aripa\source\repos\homework 3 to do list\homework 3 to do list\obj\Debug\net8.0\homework 3 to do list.AssemblyInfoInputs.cache
+C:\Users\aripa\source\repos\homework 3 to do list\homework 3 to do list\obj\Debug\net8.0\homework 3 to do list.AssemblyInfo.cs
+C:\Users\aripa\source\repos\homework 3 to do list\homework 3 to do list\obj\Debug\net8.0\homework 3 to do list.csproj.CoreCompileInputs.cache
+C:\Users\aripa\source\repos\homework 3 to do list\homework 3 to do list\obj\Debug\net8.0\homework 3 to do list.dll
+C:\Users\aripa\source\repos\homework 3 to do list\homework 3 to do list\obj\Debug\net8.0\refint\homework 3 to do list.dll
+C:\Users\aripa\source\repos\homework 3 to do list\homework 3 to do list\obj\Debug\net8.0\homework 3 to do list.pdb
+C:\Users\aripa\source\repos\homework 3 to do list\homework 3 to do list\obj\Debug\net8.0\homework 3 to do list.genruntimeconfig.cache
+C:\Users\aripa\source\repos\homework 3 to do list\homework 3 to do list\obj\Debug\net8.0\ref\homework 3 to do list.dll
