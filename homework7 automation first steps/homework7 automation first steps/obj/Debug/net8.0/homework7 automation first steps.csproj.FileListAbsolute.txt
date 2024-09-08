@@ -1,0 +1,14 @@
+C:\Users\aripa\source\repos\homework7 automation first steps\homework7 automation first steps\bin\Debug\net8.0\homework7 automation first steps.exe
+C:\Users\aripa\source\repos\homework7 automation first steps\homework7 automation first steps\bin\Debug\net8.0\homework7 automation first steps.deps.json
+C:\Users\aripa\source\repos\homework7 automation first steps\homework7 automation first steps\bin\Debug\net8.0\homework7 automation first steps.runtimeconfig.json
+C:\Users\aripa\source\repos\homework7 automation first steps\homework7 automation first steps\bin\Debug\net8.0\homework7 automation first steps.dll
+C:\Users\aripa\source\repos\homework7 automation first steps\homework7 automation first steps\bin\Debug\net8.0\homework7 automation first steps.pdb
+C:\Users\aripa\source\repos\homework7 automation first steps\homework7 automation first steps\obj\Debug\net8.0\homework7 automation first steps.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aripa\source\repos\homework7 automation first steps\homework7 automation first steps\obj\Debug\net8.0\homework7 automation first steps.AssemblyInfoInputs.cache
+C:\Users\aripa\source\repos\homework7 automation first steps\homework7 automation first steps\obj\Debug\net8.0\homework7 automation first steps.AssemblyInfo.cs
+C:\Users\aripa\source\repos\homework7 automation first steps\homework7 automation first steps\obj\Debug\net8.0\homework7 automation first steps.csproj.CoreCompileInputs.cache
+C:\Users\aripa\source\repos\homework7 automation first steps\homework7 automation first steps\obj\Debug\net8.0\homework7 automation first steps.dll
+C:\Users\aripa\source\repos\homework7 automation first steps\homework7 automation first steps\obj\Debug\net8.0\refint\homework7 automation first steps.dll
+C:\Users\aripa\source\repos\homework7 automation first steps\homework7 automation first steps\obj\Debug\net8.0\homework7 automation first steps.pdb
+C:\Users\aripa\source\repos\homework7 automation first steps\homework7 automation first steps\obj\Debug\net8.0\homework7 automation first steps.genruntimeconfig.cache
+C:\Users\aripa\source\repos\homework7 automation first steps\homework7 automation first steps\obj\Debug\net8.0\ref\homework7 automation first steps.dll
